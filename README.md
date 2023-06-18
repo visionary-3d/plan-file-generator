@@ -13,6 +13,10 @@ And then it'll open that file with [<span style="color:#f3f628">your editor of c
 # Clone this repo somewhere and don't touch it
 git clone https://github.com/visionary-3d/plan-file-generator.git
 
+# allow running git commands from any directory
+git config --global --add safe.directory '*'
+
+# go inside the directory
 cd plan-file-generator
 ```
 
@@ -38,6 +42,11 @@ Change the final line (line #29) of the setup script.
 ### VsCode
 ```bash
 code "./${file_name}"
+```
+### VsCode With WSL
+```bash
+wsl code ./
+wsl code "./${file_name}"
 ```
 ### VIM
 ```bash
