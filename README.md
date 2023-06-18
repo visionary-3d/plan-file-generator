@@ -2,7 +2,7 @@
 
 # <span style="color:#ffffff">**Plan File Generator**</span>
 <span style="color:#66b7f5">**Automated plan file generation**</span> using <span style="color:#8151fb">*bash*</span>.
-Every time you turn on [<span style="color:#24eb5f">your Operating System</span>](https://github.com/visionary-3d/plan-file-generator#run-setup.sh-on-os-startup) it'll generate a new file with the date as its name.
+Every time you turn on [<span style="color:#24eb5f">your Operating System</span>](https://github.com/visionary-3d/plan-file-generator#run-setupsh-on-os-startup) it'll generate a new file with the date as its name.
 And then it'll open that file with [<span style="color:#f3f628">your editor of choice</span>](https://github.com/visionary-3d/plan-file-generator#opening-text-editor).
 
 ### INSTALLATION
