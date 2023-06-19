@@ -9,6 +9,9 @@ And then it'll open that file with [<span style="color:#f3f628">your editor of c
 ---
 </div>
 
+### Requirements
+git bash:
+https://git-scm.com/downloads
 ```bash
 # Clone this repo somewhere and don't touch it
 git clone https://github.com/visionary-3d/plan-file-generator.git
